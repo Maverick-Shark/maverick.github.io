@@ -186,13 +186,13 @@ body {
 
 
 /*logo*/
-.mister-logo-header,
-.mister-logo-nav a,
-.mister-logo-header a {
+.logo-header,
+.logo-nav a,
+.logo-header a {
 	display:block;
 }
 
-.mister-logo-header img {
+.logo-header img {
 	padding:0;
 	display:block;
 	width:auto;
@@ -204,7 +204,7 @@ body {
 	height:auto \9; /*hack: fixes ie8 squished logo*/
 }
 
-.mister-logo-nav img {
+.logo-nav img {
 	padding:0;
 	display:block;
 	width:auto;
