@@ -186,13 +186,13 @@ body {
 
 
 /*logo*/
-.logo-header,
-.logo-nav a,
-.logo-header a {
+.mav-logo-header,
+.mav-logo-nav a,
+.mav-logo-header a {
 	display:block;
 }
 
-.logo-header img {
+.mav-logo-header img {
 	padding:0;
 	display:block;
 	width:auto;
@@ -204,7 +204,7 @@ body {
 	height:auto \9; /*hack: fixes ie8 squished logo*/
 }
 
-.logo-nav img {
+.mav-logo-nav img {
 	padding:0;
 	display:block;
 	width:auto;
