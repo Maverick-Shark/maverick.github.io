@@ -137,12 +137,14 @@
 <nav class="md-tabs" data-md-component="tabs">
   <div class="md-tabs__inner md-grid">
     <ul class="md-tabs__list">
-        <!-- Home page -->
+	    
+  <!-- Home page -->
   <li class="md-tabs__item">
       <a href="https://maverick-shark.github.io/retro/main_fpga.html" class="md-tabs__link md-tabs__link--active">
         Home
       </a>
   </li>
+	    
 <!-- Main navigation item with nested items -->
   <!-- Home page -->
   <!-- Recurse, if the first item has nested items -->
@@ -174,13 +176,17 @@
     </ul>
   </div>
 </nav>
-      
+
+<!-- **** MAIN ***** -->
+<!-- **** MAIN ***** -->
+<!-- **** MAIN ***** -->
 <main class="md-main" role="main">
     <div class="md-main__inner md-grid" data-md-component="container">
         <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
             <div class="md-sidebar__scrollwrap">
                 <div class="md-sidebar__inner">
 
+<!-- Main navigation -->
 <!-- Main navigation -->
 <nav class="md-nav md-nav--primary" data-md-level="0">
 
@@ -198,7 +204,7 @@
   <ul class="md-nav__list" data-md-scrollfix>
       <!-- Determine class according to level -->
 
-<!-- Main navigation item with nested items -->
+  <!-- Main navigation item with nested items -->
   <li class="md-nav__item md-nav__item--active">
     
     <!-- Active checkbox expands items contained within nested section -->
@@ -219,32 +225,24 @@
 
 <!-- Table of contents -->
 <nav class="md-nav md-nav--secondary">
-  
   <!--
     Hack: check whether the content contains a h1 headline. If it does, the
     top-level anchor must be skipped, since it would be redundant to the link
     to the current page that is located just above the anchor. Therefore we
     directly continue with the children of the anchor.
   -->
-
   <!-- Render item list -->
-  
     <label class="md-nav__title" for="__toc">Table of contents</label>
     <ul class="md-nav__list" data-md-scrollfix>
-      
-        <!-- Table of contents item -->
-
+      <!-- Table of contents item -->
       <!-- Source files -->
-      	
     </ul>
-  
 </nav>
     
-  </li>
+</li>
 
 <!-- Main navigation item -->
-
-     
+ 
 <!-- Determine class according to level -->
 <!-- Main navigation item with nested items -->
 
@@ -3182,12 +3180,7 @@
     </a>
   </li>
 
-        
-          
-          
           <!-- Determine class according to level -->
-
-
 
 <!-- Main navigation item with nested items -->
 
@@ -3198,12 +3191,7 @@
     </a>
   </li>
 
-        
-          
-          
           <!-- Determine class according to level -->
-
-
 
 <!-- Main navigation item with nested items -->
 
@@ -3221,12 +3209,7 @@
 
 <!-- Currently active page -->
 
-    
-      
-      
       <!-- Determine class according to level -->
-
-
 
 <!-- Main navigation item with nested items -->
 
@@ -3251,45 +3234,8 @@
       <ul class="md-nav__list" data-md-scrollfix>
 
         <!-- Render nested item list -->
-        
-        
-          
-          
+                         
           <!-- Determine class according to level -->
-
-
-
-<!-- Main navigation item with nested items -->
-
-  <li class="md-nav__item">
-    <a href="development/introduction/" title="Overview"
-        class="md-nav__link">
-      Overview
-    </a>
-  </li>
-
-        
-          
-          
-          <!-- Determine class according to level -->
-
-
-
-<!-- Main navigation item with nested items -->
-
-  <li class="md-nav__item">
-    <a href="development/test-builds/" title="Test Builds"
-        class="md-nav__link">
-      Test Builds
-    </a>
-  </li>
-
-        
-          
-          
-          <!-- Determine class according to level -->
-
-
 
 <!-- Main navigation item with nested items -->
 
@@ -3313,86 +3259,14 @@
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
 
-        <!-- Render nested item list -->
-        
-        
-          
-          
-          <!-- Determine class according to level -->
+        <!-- Render nested item list -->     
 
-
-
-<!-- Main navigation item with nested items -->
-
-  <li class="md-nav__item">
-    <a href="development/fpga/" title="What You'll need"
-        class="md-nav__link">
-      What You'll need
-    </a>
-  </li>
-
-        
-          
-          
-          <!-- Determine class according to level -->
-
-
-
-<!-- Main navigation item with nested items -->
-
-  <li class="md-nav__item">
-    <a href="development/core-porting/" title="Core Porting"
-        class="md-nav__link">
-      Core Porting
-    </a>
-  </li>
-
-        
-          
-          
-          <!-- Determine class according to level -->
-
-
-
-<!-- Main navigation item with nested items -->
-
-  <li class="md-nav__item">
-    <a href="development/configuration-string/" title="Configuration String"
-        class="md-nav__link">
-      Configuration String
-    </a>
-  </li>
-
-        
       </ul>
     </nav>
   </li>
 
 <!-- Currently active page --> 
-          
-          <!-- Determine class according to level -->
 
-<!-- Main navigation item with nested items -->
-
-  <li class="md-nav__item">
-    <a href="development/arm/" title="ARM"
-        class="md-nav__link">
-      ARM
-    </a>
-  </li>
-          
-<!-- Determine class according to level -->
-
-<!-- Main navigation item with nested items -->
-
-  <li class="md-nav__item">
-    <a href="development/usb-blaster/" title="USB Blaster (Debugging)"
-        class="md-nav__link">
-      USB Blaster (Debugging)
-    </a>
-  </li>
-
-        
       </ul>
     </nav>
   </li>
@@ -3404,78 +3278,40 @@
 <!-- Main navigation item with nested items -->
 
   <li class="md-nav__item">
-    <a href="core-status/" title="Core Status"
-        class="md-nav__link">
-      Core Status
+    <a href="fpga/mister/" title="MiSTer" class="md-nav__link">
+      MiSTer
     </a>
   </li>
       
-      <!-- Determine class according to level -->
+<!-- Determine class according to level -->
 
 <!-- Main navigation item with nested items -->
 
   <li class="md-nav__item">
-    <a href="support/" title="Support"
-        class="md-nav__link">
-      Support
+    <a href="fpgas/zxtres/" title="ZXTres" class="md-nav__link">
+      ZXTres
     </a>
   </li>
       
-      <!-- Determine class according to level -->
+<!-- Determine class according to level -->
 
 <!-- Main navigation item with nested items -->
 
   <li class="md-nav__item">
-    <a href="faq/" title="FAQ"
-        class="md-nav__link">
-      FAQ
+    <a href="fpgas/poseidon" title="Poseidon" class="md-nav__link">
+      Poseidon
     </a>
   </li>
       
-      <!-- Determine class according to level -->
+<!-- Determine class according to level -->
 
 <!-- Main navigation item with nested items -->
 
   <li class="md-nav__item">
-    <a href="our-thanks/" title="Our Thanks"
-        class="md-nav__link">
-      Our Thanks
+    <a href="our-thanks/" title="Links" class="md-nav__link">
+      Links
     </a>
   </li>
-
-      <!-- Determine class according to level -->
-
-<!-- Main navigation item with nested items -->
-
-  <li class="md-nav__item">
-    <a href="changelog/" title="Changelog"
-        class="md-nav__link">
-      Changelog
-    </a>
-  </li>
-
-      <!-- Determine class according to level -->
-
-<!-- Main navigation item with nested items -->
-
-  <li class="md-nav__item">
-    <a href="todo/" title="TODO"
-        class="md-nav__link">
-      TODO
-    </a>
-  </li>
-
-      <!-- Determine class according to level -->
-
-<!-- Main navigation item with nested items -->
-
-  <li class="md-nav__item">
-    <a href="license/" title="License"
-        class="md-nav__link">
-      License
-    </a>
-  </li>
-
     
   </ul>
 </nav>
