@@ -1,0 +1,159 @@
+-Links
+https://zx-pk.ru/threads/32923-lost-and-found.html
+http://www.kpxx.ru/LostAndFound/
+
+-Original Directory View:
+
+.DIR
+ 19-Feb-2021
+PSC   .SAV    60  19-Oct-1993    PSC   .LST     3  31-Dec-1999
+ 2 Files, 63 Blocks
+ 1523 Free blocks
+ 
+.
+
+-After Study:
+
+.DIR
+ 21-Feb-2021
+PSC   .SAV    60  19-Oct-1993    PSC   .LST     3  31-Dec-1999
+PITON .PAS     5  21-Feb-2021    BOX   .MAC    11  24-Jan-1993
+BOX   .PAS     3  24-Jan-1993    XONIX .PAS    25  29-Jul-1992
+WED   .SAV    20  31-Aug-1984    PASCAL.SAV    54  13-Mar-1992
+PASOVR.SAV    56  13-Mar-1992    PASCAL.OBJ    63  13-Mar-1992
+PASFOR.SAV    43  13-Mar-1992    PASC1 .SAV    52  29-Jan-1993
+RANDOM.PAS     1  06-Jul-1988    PDRAND.PAS     1  06-Jul-1988
+PITON2.PAS     5  31-Dec-1999    PITON .MAC    20  31-Dec-1999
+PITON .OBJ     7  31-Dec-1999    PITON .SAV    12  31-Dec-1999
+PITON2.MAC    20  31-Dec-1999    PITON2.OBJ     7  31-Dec-1999
+PITON2.SAV    12  31-Dec-1999    CATUK .TXT    56  13-Dec-1997
+PRUKNC.TXT    14  07-Oct-1998    PAS   .SAV    66  29-Aug-1993
+DOS   .PAS     4  29-Aug-1993    GRAPH .PAS     7  29-Aug-1993
+PAINT .SAV    34  29-Aug-1993    PROLOG.SAV    28  29-Aug-1993
+QUEENS.PAS    10  29-Aug-1993    QUEENS.LST     5  29-Aug-1993
+IGRY  .LZA   250  29-Aug-1993    UZA   .LST    12  29-Aug-1993
+PRIMER.LZA   175  26-Aug-1993    PCL   .SAV    27  19-Dec-1992
+PASIMP.SAV    39  19-Dec-1992    PASCAL.COM     1  31-Dec-1999
+PASCL2.COM     1  31-Dec-1999    PSC   .LST   188  31-Dec-1999
+WED   .TMP   189  31-Dec-1999
+ 39 Files, 1586 Blocks
+ 0 Free blocks
+
+.
+
+-File IGRY.LZA
+
+.DIR
+ 20-Feb-2021
+BOLDER.SAV    34  27-Jan-1992    CAT   .SAV    52  10-Nov-1991
+CHESS .LST    11  16-Dec-1992    CHESS .SAV    37  09-Jan-1992
+GARDEN.LST     3  20-Nov-1991    GOBLIN.SAV    64  11-Sep-1991
+HANOJ .SAV    19  17-Aug-1992    KLAD  .SAV    34  16-Dec-1992
+PAIR  .SAV    26  09-Jan-1992    PREZB .SAV    78  14-Feb-1992
+SEEKER.SAV    22  17-Aug-1992    SPION .SAV    13  07-Jan-1991
+TETRIS.LST     6  11-Jan-1993    TETRIS.SAV    43  11-Jan-1993
+ 14 Files, 442 Blocks
+ 65025 Free blocks
+
+.
+
+
+-File PRIMER.LZA
+
+.DIR
+ 20-Feb-2021
+LUKOM .LST     4  14-Jan-1993    AA    .E       1  13-May-1991
+AA    .PAS     2  15-Jul-1992    ADD   .E       1  23-Jan-1992
+ADD1  .E       1  18-Jul-1991    ADD2  .E       1  18-Jul-1991
+ADD3  .E       1  18-Jul-1991    ARCCOS.PAS     1  18-Jan-1992
+ARCSIN.PAS     1  19-Jan-1992    B12   .E       1  16-Jul-1991
+BID   .E       1  10-Jul-1991    BID   .PAS     1  29-Jun-1992
+BIT   .E       1  13-May-1991    BIT   .PAS     2  04-Jul-1992
+BKWUR .E       2  05-Jul-1991    BKWUR .PAS     4  05-Jul-1992
+CIFKW .PAS     3  14-Jul-1992    CMP   .PAS     9  22-Jul-1992
+CMPRUS.PAS    10  22-Jul-1992    CRCL4 .PAS     2  16-Jul-1992
+DOM6  .PNT    38  29-Nov-1992    DOMA  .E       2  25-Jul-1991
+EXP   .PAS     3  05-Jul-1992    EXP12 .E       1  05-Jul-1991
+EXPZN .PAS     1  10-Feb-1992    FAKT  .PAS     1  05-Aug-1992
+FAKT1 .E       1  02-Jul-1991    FAKT1 .PAS     1  29-Jun-1992
+FAKT2 .E       1  02-Jul-1991    FAKT2 .PAS     1  29-Jun-1992
+FAKT2Z.PAS     2  09-Jul-1992    FIB   .PAS     2  27-Dec-1991
+FIB1  .PAS     2  01-Jul-1991    GERON .E       1  13-May-1991
+GERON .PAS     1  28-Jun-1992    GERONZ.PAS     3  08-Jul-1992
+GORNER.PAS     3  27-Dec-1991    GPRO  .PAS     2  16-Jul-1992
+GR    .PAS     7  03-Aug-1992    GRAD  .PAS     1  20-Jan-1992
+GSCOOL.PAS     3  03-Aug-1992    HAPPY .E       2  13-May-1991
+HAPPY .PAS     2  07-Jul-1992    KOLEB .E       1  21-Aug-1991
+KOLEB .PAS     7  17-Jul-1992    KOLEBU.PAS     6  17-Jul-1992
+KOREN .PAS     3  17-Jul-1992    KRATN4.PAS     2  01-Jan-1992
+KURS  .PAS     2  20-Jul-1992    KURSOR.PAS     4  20-Jul-1992
+KWUR  .E       1  13-May-1991    KWUR  .PAS     2  28-Jun-1992
+KWURFR.CAL     1  14-Nov-1992    KWURU .PAS     2  29-Jun-1992
+M3    .PAS     2  10-Jul-1992    M3D   .PAS     3  10-Jul-1992
+MAX   .E       1  16-Jul-1991    MAX   .PAS     2  04-Jul-1992
+MAXLT .PAS     2  04-Jul-1992    MAXR  .E       1  16-Jul-1991
+MAXR  .PAS     2  08-Jul-1992    MAXR1 .E       1  18-Jul-1991
+MIN   .E       1  15-Jul-1991    MIN   .PAS     2  04-Jul-1992
+MIN1  .E       1  16-Jul-1991    MINF  .PAS     2  09-Jul-1992
+MINR  .PAS     2  08-Jul-1992    MIRGR .E       2  24-Jul-1991
+MKARLO.PAS     2  17-Jul-1992    MNK   .E       1  20-Aug-1991
+MNK   .PAS     4  28-Dec-1991    MOD   .PAS     1  29-Jun-1992
+MOTIO .PAS     3  18-Jul-1992    MOTION.PAS     6  22-Jul-1992
+MUL   .PAS     1  11-Jul-1992    NELT  .E       1  10-Jul-1991
+NOD   .E       1  13-May-1991    NOD   .PAS     1  29-Jun-1992
+NODT  .E       1  05-Jul-1991    NODZ  .PAS     3  08-Jul-1992
+NOK   .E       1  05-Jul-1991    OTMKA .PAS     3  14-Jul-1992
+PER   .E       1  18-Jul-1991    POISK .E       1  10-Jul-1991
+POISK .PAS     2  04-Jul-1992    POISK1.E       1  13-May-1991
+POISK2.E       1  13-May-1991    POISK3.E       1  09-Jul-1991
+POISKF.PAS     3  09-Jul-1992    POISKR.PAS     3  08-Jul-1992
+POL   .E       1  16-Jul-1991    PR1   .PAS     3  09-Jul-1992
+PR2   .PAS     3  10-Jul-1992    PR3   .PAS     1  10-Jul-1992
+PR3A  .PAS     1  10-Jul-1992    PRST  .E       1  13-May-1991
+PRW   .PAS     2  15-Jul-1992    QUADRO.PAS     2  11-Jul-1992
+RAD   .PAS     1  20-Jan-1992    RASPIS.PAS     3  14-Jul-1992
+RTR   .PAS     3  06-Jul-1992    S1    .E       1  24-Aug-1991
+S2    .E       1  24-Aug-1991    SCHOOL.PNT    30  29-Nov-1992
+SIGN  .PAS     1  17-Jan-1992    SINUS .PAS     4  06-Jul-1992
+SK2DX .PAS     5  08-Jun-1992    SKDX  .PAS     4  17-Jul-1992
+SKKUB .E       1  24-Jul-1991    SKSIN .E       1  24-Jul-1991
+SPUTN .E       1  26-Aug-1991    STEP  .PAS     3  18-Jul-1992
+STEPS .PAS     5  22-Jul-1992    STREUG.PAS     1  28-Jun-1992
+SUM   .PAS     2  29-Jun-1992    SUMF  .PAS     2  09-Jul-1992
+SUMTAB.E       1  13-May-1991    TRAPL .PAS     2  17-Jul-1992
+TRAPR .PAS     2  17-Jul-1992    TRAPS .PAS     2  17-Jul-1992
+TRAPT .PAS     2  17-Jul-1992    TRAPTU.PAS     2  17-Jul-1992
+UPOR  .E       1  16-Jul-1991    UPOR  .PAS     3  05-Jul-1992
+UPR10T.PAS     3  15-Jul-1992    UPR11T.PAS     3  15-Jul-1992
+UPR1V1.E       1  04-Jul-1991    UPR1V2.E       1  04-Jul-1991
+UPR2Q .E       1  05-Jul-1991    UPR2T .PAS     2  15-Jul-1992
+UPR3T .PAS     2  15-Jul-1992    UPR4T .PAS     2  15-Jul-1992
+UPR5T .PAS     2  15-Jul-1992    UPR5V1.E       1  29-Jun-1991
+UPR5V1.PAS     2  28-Jun-1992    UPR5V2.E       1  29-Jun-1991
+UPR5V2.PAS     1  28-Jun-1992    UPR5V3.E       1  30-Jun-1991
+UPR5V3.PAS     1  28-Jun-1992    UPR6T .PAS     2  15-Jul-1992
+UPR7T .PAS     2  15-Jul-1992    UPR8T .PAS     2  15-Jul-1992
+UPR9A1.E       1  03-Jul-1991    UPR9A2.E       1  04-Jul-1991
+UPR9T .PAS     2  15-Jul-1992    UPRD  .E       2  16-Jul-1991
+UPRSIL.PAS     3  16-Jul-1992    UPRSIM.PAS     4  16-Jul-1992
+UPRSTL.PAS     4  16-Jul-1992    UPRSTR.PAS     5  16-Jul-1992
+UPSILA.PAS     2  16-Jul-1992    UPSIRU.PAS     3  16-Jul-1992
+UT    .E       1  24-Aug-1991    WINTFR.CAL     2  14-Nov-1992
+ZAP0  .E       1  18-Jul-1991    ZARFR .CAL     4  14-Nov-1992
+ZIFRA .PAS     2  07-Jul-1992
+ 157 Files, 392 Blocks
+ 65075 Free blocks
+
+.
+[/code]
+
+-From PASCAL.SAV
+
+Pascal/ADOS V1.0B
+...
+developed by V.M. Polyatayev based on OMSI Pascal V1.1G.
+
+
+-From PROLOG.SAV
+
+Pre V2.0 (c)1987 by Demisoft
